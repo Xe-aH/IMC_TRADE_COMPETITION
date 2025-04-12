@@ -12,4 +12,4 @@ Exhaustively tests all possible trade sequences up to a defined number of steps 
 - Starts and ends with SeaShells  
 - Tracks conversion rates between 4 currencies:  
   - SeaShells ↔ Snowballs ↔ Pizzas ↔ SiliconNuggets
-```bash
+```
