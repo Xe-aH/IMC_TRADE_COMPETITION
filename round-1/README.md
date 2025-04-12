@@ -6,5 +6,8 @@ Exhaustively tests all possible trade sequences up to a defined number of steps 
 ### Profit Calculation  
 - Starts and ends with SeaShells  
 - Tracks conversion rates between 4 currencies:  
-  - SeaShells ↔ Snowballs ↔ Pizzas ↔ SiliconNuggets
+  - SeaShells ↔ Snowballs ↔ Pizzas ↔ SiliconNuggets ↔ SeaShells 
+
+### Conclusion:
+Tied for first place in manual trade with 44.340 currency.
 
